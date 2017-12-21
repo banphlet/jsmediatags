@@ -36,6 +36,7 @@
   },
   "homepage": "https://github.com/aadsm/jsmediatags#readme",
   "dependencies": {
+    "js-base64": "^2.4.0",
     "xhr2": "^0.1.4"
   },
   "optionalPeerDependencies": {
